@@ -1,0 +1,24 @@
+.CounterContainer{
+    display: flex;
+    flex-direction: column;
+  
+    align-items: center;
+    text-align:center;
+    margin: 20px;
+    font-family: Arial, sans-serif; 
+}
+textarea{
+    width:100%;
+    padding: 10px;
+    height: 300px;
+    margin-bottom:10px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    font-size:25px;
+}
+
+p{
+    font-size: 25px;
+    margin: 5px 0;
+    color:#333;
+}
